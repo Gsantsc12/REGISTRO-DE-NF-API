@@ -1,0 +1,19 @@
+{
+"notafiscal": "9800426",
+"data_emissao": "2026-03-08",
+"cnpj_base": "04176513001423",
+"cnpj_fornecedor": "10906423000200",
+"sigla_cliente": "HNK",
+"itens": [
+{
+  "codigo_item": "HNKMMK0010",
+  "codigo_item_cliente": "",
+  "qtde": 5,
+  "valor_unitario": 12.3,
+  "aliquota_icms": 0,
+  "ncm": "96032100",
+  "lote": "MMK-002",
+  "validade": "2026-12-31"
+    }
+  ]
+}
