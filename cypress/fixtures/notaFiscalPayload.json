@@ -1,12 +1,13 @@
 {
-"notafiscal": "9800426",
-"data_emissao": "2026-03-08",
-"cnpj_base": "04176513001423",
-"cnpj_fornecedor": "10906423000200",
+"notafiscal": "980423",
+"chave_nf": "37150711223344500123550030000045685000045647",
+"data_emissao": "2026-03-07",
+"cnpj_base": "50221019006843",
+"cnpj_fornecedor": "45056075000122",
 "sigla_cliente": "HNK",
 "itens": [
-{
-  "codigo_item": "HNKMMK0010",
+  {
+  "codigo_item_pier": "HNKMMK2311",
   "codigo_item_cliente": "",
   "qtde": 5,
   "valor_unitario": 12.3,
@@ -14,6 +15,6 @@
   "ncm": "96032100",
   "lote": "MMK-002",
   "validade": "2026-12-31"
-    }
-  ]
+  }
+]
 }
